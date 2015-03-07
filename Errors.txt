@@ -1,0 +1,4 @@
+405 Method Not Allowed OPTIONS
+405 Method Not Allowed PUT
+405 Method Not Allowed DELETE
+405 Method Not Allowed TRACE
